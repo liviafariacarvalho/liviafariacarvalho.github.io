@@ -1,8 +1,8 @@
 # Site settings
 title: Meu Blog Pessoal
 email: liviafariacarvalho@gmail.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://liviafariacarvalho.github.io/
+description: "Bem vindo ao meu blog pessoal! Meu nome é Lívia, tenho 19 anos de idade e sou licencianda em matemática pela YFV Florestal."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
