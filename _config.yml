@@ -16,13 +16,11 @@ footer: Your Website
 social:
 
   - title: facebook
-    url:
+    url:https://www.facebook.com/livia.faria.9256
   - title: instagram
     url: http://instagram.com/livia_cfaria
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/liviafariacarvalho
 
 # Build settings
 markdown: kramdown
