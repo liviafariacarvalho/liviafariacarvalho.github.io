@@ -15,8 +15,8 @@ footer: Your Website
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 
-  - title: facebook
-    url:https://www.facebook.com/liviafaria9256
+  #- title: facebook
+  #  url:https://www.facebook.com/liviafaria9256
   - title: instagram
     url: http://instagram.com/livia_cfaria
   - title: github
